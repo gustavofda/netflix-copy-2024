@@ -30,7 +30,7 @@ video {
 
 .capa {
     position: absolute;
-    bottom: 20%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: 20%;   
     left: 5%;
     width: 35%;
     z-index: 3;
@@ -54,7 +54,7 @@ video {
     color: black;
     padding: 10px 20px;
     border-radius: 4px;
-    cursor: pointer; /* Mãosinha */
+    cursor: pointer; 
 }
 
 .link-info {
@@ -93,7 +93,7 @@ video {
 }
 
 .modal {
-    display: none;  /* Mostrar NADA */
+    display: none; 
     position: fixed;
     z-index: 5;
     left: 0;
@@ -110,8 +110,3 @@ video {
     width: 60%;
     color: white;
 }
-/* 
-    Classe = .
-    ID = #
-*/
-
